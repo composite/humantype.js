@@ -15,10 +15,10 @@ Goals
  - Less Size and Unresolved Issues, performance
  - **Please don't use at production use yet. It's not prepared.**
  
- Open sourse used
- ----------------
+Open sourse used
+----------------
  
- jQuery core (https://github.com/jquery/jquery/blob/master/src/core.js)
+jQuery core (https://github.com/jquery/jquery/blob/master/src/core.js)
 
 License
 -------
